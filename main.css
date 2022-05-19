@@ -4,7 +4,7 @@
     --white: rgb(255, 255, 255);
     --dark: rgb(20, 20, 20);
     --dark2: rgba(24, 24, 24, 0.856);
-    --dark3:  #000000;  
+    --dark3:  #0d0d10;  
     --lightBlue:  #0004ff;
     --transition: all 0.5s ease;
 }
@@ -31,7 +31,10 @@ a{
     display: contents;
 }
 
-
+.evento{
+    font-size: 40px;
+    margin: 0px 5px;
+}
 h1, h2, h3, h4, h5, h6, p{
     margin: 9px 0;
     color: var(--white);
