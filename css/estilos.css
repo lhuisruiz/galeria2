@@ -67,12 +67,17 @@
 .retratos-img{
     width: 300px;
     height: auto;
-    margin: 90px 20px 10px 20px;
+    margin: 10px 20px 10px 20px;
     
+}
+
+.link{
+    color: #0011ffb6;
+    font-weight: 900;
 }
 @media only screen and (max-width: 980px){
     .retratos-img{
-        
+       
         margin: 10px 20px 10px 20px;}
 }
 .columna-1{
